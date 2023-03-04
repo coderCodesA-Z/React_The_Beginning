@@ -30,4 +30,12 @@ Why there exists two CDN Links : One for React and other ReactDOM ?
 
     - ReactDOM.hydrate(), and manages the interaction between React components and the browser's DOM.
 
-    In summary, React is a library for defining and rendering components, while ReactDOM provides the bindings between React and the browser's DOM, enabling React components to be rendered to the screen and manage the component lifecycle. Without ReactDOM, React components cannot be rendered to the browser's DOM, and without React, ReactDOM does not have anything to render.
+    In summary, React is a library for defining and rendering components, 
+    
+    while ReactDOM provides the bindings between React and the browser's DOM, 
+    
+    enabling React components to be rendered to the screen and manage the component lifecycle. 
+    
+    Without ReactDOM, React components cannot be rendered to the browser's DOM, and without React, 
+    
+    ReactDOM does not have anything to render.
