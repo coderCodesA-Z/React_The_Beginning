@@ -1,4 +1,6 @@
-Why there exists two CDN Links ? - React and ReactDOM are both libraries for building user interfaces in JavaScript, but they
+Why there exists two CDN Links ?
+
+    - React and ReactDOM are both libraries for building user interfaces in JavaScript, but they
 
       serve different purposes.
 
